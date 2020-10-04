@@ -3,3 +3,8 @@
 Также, если эта центральная буква равна первой букве в строке, то создать и вывести часть строки между первым и последним символами исходной строки.
 (подсказка: для получения центральной буквы, найдите длину строки и разделите ее пополам. Для создания результирующий строки используйте срез)
 '''
+string = input('Input any string: ')
+central_letter = string[int(len(string) // 2)]
+print(f"Central symbol is: {central_letter}")
+if central_letter == string[0]:
+    print(f"Part of string between 1th and last symbol: {string[1:-1]}")

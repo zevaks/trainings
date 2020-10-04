@@ -6,3 +6,18 @@
 Примечание: Во всех задачах предоставить 2 решения.
 Одно с использованием цикла while, другое с использованием цикла for с параметром. Оба решения предоставить в одном файле
 '''
+
+fib1 = fib2 = 1
+
+n = int(input('Enter number: '))
+
+if n < 2:
+    quit()
+
+print(fib1, end=' ')
+print(fib2, end=' ')
+for i in range(2, n):
+    fib1, fib2 = fib2, fib1 + fib2
+    print(fib2, end=' ')
+
+
