@@ -1,10 +1,10 @@
 
-sting = "1234567890"
-lst = list(sting)
-count = 0
-while len(lst) > 0:
-    lst.pop()
-    count +=1
-print(count)
+str = [1,1,2,3,4,5,5,4,3,1,5,4]
 
+dct = {}
+j = 0
 
+for i in str:
+    dct[i] = str.count(i)
+
+print(dct)

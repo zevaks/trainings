@@ -1,0 +1,4 @@
+Сортировка пузырьком
+    a[j], a[j+1] = a[j+1], a[j]
+Бинарное дерево  - http://i.stack.imgur.com/3NG0e.gif
+    heapq

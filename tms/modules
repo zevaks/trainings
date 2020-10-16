@@ -1,0 +1,73 @@
+heapq               sched
+abc                 hmac                secrets
+aifc                html                select
+antigravity         http                selectors
+imaplib             setuptools
+array               imghdr              shelve
+ast                 imp                 shlex
+asynchat            importlib           shutil
+asyncio             inspect             signal
+asyncore            io                  site
+atexit              ipaddress           smtpd
+audioop             itertools           smtplib
+base64              requests            sndhdr
+bdb                 keyword             socket
+binascii            lib2to3             socketserver
+binhex              linecache           spwd
+bisect              locale              sqlite3
+builtins            logging             sre_compile
+bz2                 lzma                sre_constants
+cProfile            macpath             sre_parse
+calendar            macurl2path         ssl
+cgi                 mailbox             stat
+cgitb               mailcap             statistics
+chunk               marshal
+cmath               math                stringprep
+cmd                 mimetypes           struct
+code                mmap                subprocess
+codecs              modulefinder        sunau
+codeop              multiprocessing     symbol
+collections         netrc               symtable
+colorsys            nis
+compileall          nntplib             sysconfig
+concurrent          ntpath              syslog
+configparser        nturl2path          tabnanny
+contextlib          numbers             tarfile
+copy                opcode              telnetlib
+copyreg             operator            tempfile
+crypt               optparse            termios
+test
+ctypes              ossaudiodev         textwrap
+curses              parser              this
+pathlib             threading
+dbm                 pdb                 time
+decimal             pickle              timeit
+difflib             pickletools         token
+dis                 pip                 tokenize
+distutils           pipes               trace
+doctest             pkg_resources       traceback
+dummy_threading     pkgutil             tracemalloc
+easy_install        platform            tty
+email               plistlib            types
+encodings           poplib              typing
+ensurepip           posix               unicodedata
+enum                posixpath           unittest
+errno               urllib
+faulthandler        profile             uu
+fcntl               pstats              uuid
+filecmp             pty                 venv
+fileinput           pwd                 warnings
+fnmatch             py_compile          wave
+formatter           pyclbr              weakref
+fractions           pydoc               webbrowser
+ftplib              pydoc_data          wsgiref
+functools           pyexpat             xdrlib
+gc                  queue               xml
+genericpath        quopri              xmlrpc
+getopt              random              xxlimited
+getpass             re                  xxsubtype
+gettext             readline
+glob                reprlib             zipapp
+grp                 resource            zipfile
+gzip                rlcompleter         zipimport
+hashlib             runpy               zlib
