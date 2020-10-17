@@ -1,4 +1,4 @@
-heapq               sched
+sched
 abc                 hmac                secrets
 aifc                html                select
 antigravity         http                selectors
